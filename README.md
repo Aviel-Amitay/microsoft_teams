@@ -27,10 +27,10 @@ Generates properly named Teams background files:
 - Output is saved to: `C:\TeamsBackgroundsPrepared`
 
 📝 *Example Output:*
-8dc93b47-484f-461c-8710-39c79f8e9fa0.png
-8dc93b47-484f-461c-8710-39c79f8e9fa0_thumb.png
-8dc93b48-484f-461c-8710-39c79f8e9fa0.png
-8dc93b48-484f-461c-8710-39c79f8e9fa0_thumb.png
+	- 8dc93b47-484f-461c-8710-39c79f8e9fa0.png
+	- 8dc93b47-484f-461c-8710-39c79f8e9fa0_thumb.png
+	- 8dc93b48-484f-461c-8710-39c79f8e9fa0.png
+	- 8dc93b48-484f-461c-8710-39c79f8e9fa0_thumb.png
 
 
 ---
@@ -88,5 +88,3 @@ Pull requests welcome. Please fork the repo and submit a PR with changes.
 ---
 
 Let me know if you want to include screenshots, logo branding, or configuration options in the README as well.
-
->>>>>>> 11da32a (Update README)
