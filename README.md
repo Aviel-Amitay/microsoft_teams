@@ -26,7 +26,7 @@ Generates properly named Teams background files:
   - `GUID_thumb.png`
 - Output is saved to: `C:\TeamsBackgroundsPrepared`
 
-📝 *Example Output:*
+📝 *Example Output:*  
 	- 8dc93b47-484f-461c-8710-39c79f8e9fa0.png  
 	- 8dc93b47-484f-461c-8710-39c79f8e9fa0_thumb.png  
 	- 8dc93b48-484f-461c-8710-39c79f8e9fa0.png  
