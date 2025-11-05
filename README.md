@@ -82,8 +82,3 @@ MIT License. Use and modify freely with attribution.
 
 🤝 Contributing
 Pull requests welcome. Please fork the repo and submit a PR with changes.
-
-
----
-
-Let me know if you want to include screenshots, logo branding, or configuration options in the README as well.
